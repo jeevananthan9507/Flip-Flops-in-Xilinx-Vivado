@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN F22 [get_ports S]
+set_property PACKAGE_PIN G22 [get_ports R]
+set_property PACKAGE_PIN T22 [get_ports Q]
+set_property PACKAGE_PIN Y9 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports Q]
+set_property IOSTANDARD LVCMOS33 [get_ports R]
+set_property IOSTANDARD LVCMOS33 [get_ports S]
