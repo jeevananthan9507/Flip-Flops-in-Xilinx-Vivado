@@ -52,6 +52,5 @@ This project implements an **SR (Set-Reset) Flip-Flop** using Verilog HDL and ve
 3. Verify the output waveform for set, reset, and hold conditions.
 4. For FPGA implementation, verify the pin assignments in `SR_FF.xdc`.
 
-## Author
-Jeevananthan J
+
 
