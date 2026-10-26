@@ -24,6 +24,8 @@ This project implements a **T (Toggle) Flip-Flop** using Verilog HDL and simulat
 3. Verify the output waveform for toggle and hold operations.
 4. To implement on hardware, verify the pin assignments in `T_FF.xdc` for your FPGA board.
 
+
+
 # SR Flip-Flop – Xilinx Vivado
 
 ## Overview
